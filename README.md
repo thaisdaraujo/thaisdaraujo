@@ -45,8 +45,9 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="50px" title="Figma" alt="Figma" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xd/xd-original.svg" width="50px" title="Adobe XD" alt="Adobe XD" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/grafana/grafana-original.svg" width="50px" title="Grafana" alt="Grafana" />&nbsp;&nbsp;
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="50px" title="Bitbucket" alt="Bitbucket" />&nbsp;&nbsp;
+<img src="https://cdn0.iconfinder.com/data/icons/shift-logotypes/32/Github-512.png" width="50px" title="GitHub" alt="GitHub" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" width="50px" title="GitLab" alt="GitLab" />&nbsp;&nbsp;
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg" width="50px" title="Bitbucket" alt="Bitbucket" />&nbsp;&nbsp;
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="50px" title="Git" alt="Git" />
 
 <br>
