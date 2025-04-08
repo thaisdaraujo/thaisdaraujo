@@ -5,7 +5,7 @@
 <p>My professional and personal focus is on enhancing users' online experiences by simplifying <br> their day-to-day tasks through the creation of accessible and user-friendly websites 💜<p> 
 <br>
 <div><img height="157" width="200" src="https://media.tenor.com/KdkhCJ65m0sAAAAi/peach-goma-peach-and-goma.gif" title="Working!" /></div>
-  
+
 ##
 
 <h3>Experience 🦄</h3>
